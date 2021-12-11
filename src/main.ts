@@ -1,4 +1,3 @@
-import { RunFactroy } from './patterns/factory-method';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;

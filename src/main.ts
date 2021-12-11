@@ -6,3 +6,6 @@ app.innerHTML = `
   <h1>Software Design Patterns</h1>
   <p>Writtin in Typescript by <a href="https://github.com/motcodes" target="_blank">@motcodes</a>.</p>
 `;
+
+// RunFactroy();
+// RunSingleton();

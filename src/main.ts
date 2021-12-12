@@ -1,4 +1,4 @@
-import { RunDecorator } from './patterns/decorator';
+import { RunMediator } from './patterns/mediator';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
@@ -12,4 +12,5 @@ app.innerHTML = `
 // RunSingleton();
 // RunAdapter();
 // RunBridge();
-RunDecorator();
+// RunDecorator();
+RunMediator();

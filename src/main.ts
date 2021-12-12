@@ -1,3 +1,4 @@
+import { RunAdapter } from './patterns/adapter';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
@@ -9,3 +10,4 @@ app.innerHTML = `
 
 // RunFactroy();
 // RunSingleton();
+RunAdapter();

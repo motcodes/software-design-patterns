@@ -1,5 +1,5 @@
-import { Beep, IBeepBehavior } from './BeepBehavior';
-import { Drive, Go, IMoveBehavior } from './MovieBehavior';
+import { Beep, IBeepBehavior } from './beepBehavior';
+import { Drive, Go, IMoveBehavior } from './movieBehavior';
 
 // Abstract Class which every Robot has to implement
 // This is the Creator Class

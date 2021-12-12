@@ -1,4 +1,4 @@
-import { Cook } from './Cook';
+import { Cook } from './cook';
 
 export function RunSingleton() {
   const cook1: Cook = Cook.getInstance();

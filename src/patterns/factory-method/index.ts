@@ -1,5 +1,5 @@
-import { Sound } from './BeepBehavior';
-import { Go, RocketPower } from './MovieBehavior';
+import { Sound } from './beepBehavior';
+import { Go, RocketPower } from './movieBehavior';
 import { Fressomat, Mantis, Otto, RoboCar, Robot } from './robot';
 
 export function RunFactroy() {

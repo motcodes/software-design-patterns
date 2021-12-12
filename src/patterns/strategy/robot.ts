@@ -2,7 +2,7 @@ import { Beep, IBeepBehavior } from './beepBehavior';
 import { Drive, Go, IMoveBehavior } from './movieBehavior';
 
 // Abstract Class which every Robot has to implement
-// This is the Creator Class
+// This is the context Class
 export abstract class Robot {
   BeepBehavior: IBeepBehavior = new Beep();
   MoveBehavior: IMoveBehavior = null;

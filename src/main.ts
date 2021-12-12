@@ -1,3 +1,4 @@
+import { RunDecorator } from './patterns/decorator';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
@@ -11,3 +12,4 @@ app.innerHTML = `
 // RunSingleton();
 // RunAdapter();
 // RunBridge();
+RunDecorator();

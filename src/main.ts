@@ -14,3 +14,5 @@ app.innerHTML = `
 // RunDecorator();
 // RunMediator();
 // RunStrategy();
+// RunObserverPull();
+// RunObserverPush();

@@ -2,7 +2,7 @@ import { Sound } from './beepBehavior';
 import { Go, RocketPower } from './movieBehavior';
 import { Fressomat, Mantis, Otto, RoboCar, Robot } from './robot';
 
-export function RunFactroy() {
+export function RunStrategy() {
   console.log('Running Factory Method: \n');
 
   const mantis: Robot = new Mantis();

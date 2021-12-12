@@ -1,4 +1,3 @@
-import { RunMediator } from './patterns/mediator';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
@@ -8,9 +7,10 @@ app.innerHTML = `
   <p>Writtin in Typescript by <a href="https://github.com/motcodes" target="_blank">@motcodes</a>.</p>
 `;
 
-// RunFactroy();
+// RunFactory();
 // RunSingleton();
 // RunAdapter();
 // RunBridge();
 // RunDecorator();
-RunMediator();
+// RunMediator();
+// RunStrategy();

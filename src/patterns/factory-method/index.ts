@@ -1,4 +1,4 @@
-import { ConcreteCreator, Creator } from './Creator';
+import { ConcreteCreator, Creator } from './creator';
 import { Item } from './item';
 
 export function RunFactory() {

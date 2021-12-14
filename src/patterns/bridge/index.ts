@@ -1,7 +1,7 @@
 import { Chrome } from './browsers';
 import { Computer } from './computer';
-import { LaptopWindows } from './LaptopWindows';
-import { MacMini } from './MacMini';
+import { LaptopWindows } from './laptopWindows';
+import { MacMini } from './macMini';
 import { Linux } from './systems';
 
 export function RunBridge() {

@@ -14,7 +14,7 @@ This collection includes these patterns:
 - [x] Strategy
 - [x] State
 - [x] Command
-- [ ] Facade
+- [x] Facade
 - [ ] Template Method
 - [ ] Iterator
 - [ ] Composite

@@ -19,3 +19,4 @@ app.innerHTML = `
 // RunState();
 // RunCommand();
 // RunFacade();
+// RunTemplate();

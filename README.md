@@ -4,11 +4,25 @@ written in Typescript by [@motcodes](https://twitter.com/motcodes)
 
 This collection includes these patterns:
 
-- Factory Method
-- Strategy
-- Bridge
-- Adapter
-- Decorator
-- Mediator
-- Singleton
-- State
+- [x] Singleton
+- [x] Decorator
+- [x] Observer
+- [x] Bridge
+- [x] Factory Method
+- [x] Adapter
+- [x] Mediator
+- [x] Strategy
+- [x] State
+- [ ] Command
+- [ ] Facade
+- [ ] Template Method
+- [ ] Iterator
+- [ ] Composite
+- [ ] Proxy
+- [ ] Builder
+- [ ] Prototype
+- [ ] Visitor
+- [ ] Interpreter
+- [ ] Chain of Responsibility
+- [ ] Memento
+- [ ] Flyweight

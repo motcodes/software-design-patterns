@@ -11,3 +11,4 @@ This collection includes these patterns:
 - Decorator
 - Mediator
 - Singleton
+- State

@@ -16,3 +16,4 @@ app.innerHTML = `
 // RunStrategy();
 // RunObserverPull();
 // RunObserverPush();
+// RunState();

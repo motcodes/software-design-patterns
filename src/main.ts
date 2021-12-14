@@ -18,3 +18,4 @@ app.innerHTML = `
 // RunObserverPush();
 // RunState();
 // RunCommand();
+// RunFacade();

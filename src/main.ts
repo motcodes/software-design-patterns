@@ -1,3 +1,4 @@
+import { RunIterator } from './patterns/iterator';
 import './style.css';
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
@@ -20,3 +21,4 @@ app.innerHTML = `
 // RunCommand();
 // RunFacade();
 // RunTemplate();
+RunIterator();

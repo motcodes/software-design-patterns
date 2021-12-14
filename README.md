@@ -16,7 +16,7 @@ This collection includes these patterns:
 - [x] Command
 - [x] Facade
 - [x] Template Method
-- [ ] Iterator
+- [x] Iterator
 - [ ] Composite
 - [ ] Proxy
 - [ ] Builder

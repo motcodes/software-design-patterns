@@ -13,7 +13,7 @@ This collection includes these patterns:
 - [x] Mediator
 - [x] Strategy
 - [x] State
-- [ ] Command
+- [x] Command
 - [ ] Facade
 - [ ] Template Method
 - [ ] Iterator
